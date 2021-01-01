@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{619B4486-6007-F043-A5D6-07D719D43F1D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/detectTriggerEnd.cs">
+    <Files>
+      <File FileName="Assets/scripts/collectObjects.cs" Line="30" Column="15" />
+      <File FileName="Assets/Timer.cs" Line="9" Column="19" />
+      <File FileName="Assets/scripts/collectObjects_b.cs" Line="108" Column="48" />
+      <File FileName="Assets/rotateBox.cs" Line="15" Column="18" />
+      <File FileName="Assets/ManageMenu.cs" Line="36" Column="42" />
+      <File FileName="Assets/Audio/manageSound.cs" Line="16" Column="6" />
+      <File FileName="Assets/displayHideCamera.cs" Line="11" Column="44" />
+      <File FileName="Assets/detectAICollision.cs" Line="23" Column="72" />
+      <File FileName="Assets/detectTriggerEnd.cs" Line="21" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
