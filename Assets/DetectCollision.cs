@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class DetectCollision : MonoBehaviour
 {
+    private int score;
     // Start is called before the first frame update
     void Start(){
 
@@ -19,6 +20,8 @@ public class DetectCollision : MonoBehaviour
       string tagName = col.collider.gameObject.tag;
       if(tagName == "pick_me"){
         Destroy(col.collider.gameObject);
+        score++;
+        print("Score: " + score );
       }
       if(tagName == "avoid_me"){
         Destroy(col.collider.gameObject);
