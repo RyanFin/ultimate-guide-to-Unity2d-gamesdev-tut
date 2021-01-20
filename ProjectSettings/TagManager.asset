@@ -9,6 +9,7 @@ TagManager:
   - plane
   - bgSound
   - avoid_me
+  - reStarter
   layers:
   - Default
   - TransparentFX

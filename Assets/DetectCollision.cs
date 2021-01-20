@@ -31,5 +31,8 @@ public class DetectCollision : MonoBehaviour
         Destroy(col.collider.gameObject);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
       }
+      if(tagName == "reStarter"){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+      }
     }
 }
